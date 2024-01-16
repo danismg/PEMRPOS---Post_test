@@ -41,7 +41,7 @@ Berikut adalah contoh masukan yang diberikan.
 Berikut adalah keluaran yang diharapkan.
 
 ```
-180
+150720
 
 ```
 
@@ -60,6 +60,6 @@ Berikut adalah contoh masukan yang diberikan.
 Berikut adalah keluaran yang diharapkan.
 
 ```
-351
+351680
 
 ```
